@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  display: block;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  background: #7fffd4;
+  width: 500px;
+  margin-top: 300px;
+  margin-left: 550px;
+}
+h1{
+  text-align: center;
+}
+p{
+  font-size: 30px;
+}
+.btn-success{
+  background: green;
+  width: 150px;
+  margin-right: 10px;
+  font-size: 25px;
+}
+.btn-danger{
+  background: red;
+  width: 150px;
+  margin-right: 10px;
+  font-size: 25px;
+
+}
+.btn-secondary{
+  background: yellow;
+  width: 150px;
+  margin-right: 10px;
+  font-size: 25px;
+}
